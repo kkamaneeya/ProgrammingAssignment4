@@ -29,7 +29,7 @@ The dataset includes the following files:
 
 - 'Tidy_data.csv': Processed data set.
 
--'run_analysis.R': THe R-code which performs the processing/ananlysis on the original database to obtain the tidy dataset.
+- 'run_analysis.R': THe R-code which performs the processing/ananlysis on the original database to obtain the tidy dataset.
 
 Notes: 
 ======
