@@ -27,7 +27,9 @@ The dataset includes the following files:
 
 - 'CodeBook.md': Shows information about the variables used on the feature vector.
 
-- 'Tidy_data.csv': Processed data set
+- 'Tidy_data.csv': Processed data set.
+
+-'run_analysis.R': THe R-code which performs the processing/ananlysis on the original database to obtain the tidy dataset.
 
 Notes: 
 ======
